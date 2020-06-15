@@ -44,7 +44,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>ua.com.alevel.nix.experienceusingclass.Main</mainClass>
+                            <mainClass>ua.com.alevel.nix.pavlohnatenko.hometask2.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
